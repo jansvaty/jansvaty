@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jansvaty
+- 👀 I’m interested in learning programming
+- 🌱 I’m currently learning UX Design, html and CSS language
+- 💞️ I’m looking to collaborate on web projects focused on Web Development and user interfaces
+- 📫 You can reach me on my email jan.svaty@gmail.com
